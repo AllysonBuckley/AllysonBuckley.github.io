@@ -9,7 +9,7 @@ body {
 #all-contents {
     max-width: 1000px;
     max-height: 2000px;
-    margin:auto
+    margin:auto;
 }
 
 /* navigation menu */
@@ -33,7 +33,7 @@ h1 {
 
 #nav-ul {
     list-style-type: none;
-    margin: 0
+    margin: 0;
     padding: 0;
     display: flex;
 }
