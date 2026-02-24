@@ -317,7 +317,7 @@
         blurFilterOn: blurFilterOn,
         
         fps: function (color) {
-            color = (color) ? color : '#FFF';
+            color = (color) ? color : '#f4f6bb';
             var _textfield = new createjs.Text("-- fps", "bold 15px Arial", color);
             var _fps = new createjs.Container();
             _fps.textfield = _textfield;
